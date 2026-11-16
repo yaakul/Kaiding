@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "kaiding",
+  "version": "${version}",
+  "name": "Kaiding",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/kaiding/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-datagen": [
+      "me.yaakul.kaiding.client.KaidingDataGenerator"
+    ],
+    "client": [
+      "me.yaakul.kaiding.client.KaidingClient"
+    ],
+    "main": [
+      "me.yaakul.kaiding.Kaiding"
+    ]
+  },
+  "mixins": [
+    "kaiding.mixins.json",
+    {
+      "config": "kaiding.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
