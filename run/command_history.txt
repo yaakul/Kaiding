@@ -1,0 +1,9 @@
+/kaiding
+/kick
+/help
+/kaiding
+/gamemode survival
+/kaiding
+/gamemode creative
+/kaiding
+/gamemode survival

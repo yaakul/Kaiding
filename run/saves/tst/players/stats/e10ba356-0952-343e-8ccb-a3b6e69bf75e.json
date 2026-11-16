@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:grass_block": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 160,
+      "minecraft:walk_one_cm": 137,
+      "minecraft:total_world_time": 168,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 160,
+      "minecraft:jump": 1,
+      "minecraft:time_since_death": 160
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 1
+    },
+    "minecraft:used": {
+      "minecraft:grass_block": 1
+    }
+  },
+  "DataVersion": 5023
+}

@@ -1,0 +1,8 @@
+{
+  "minCps": 8.0,
+  "maxCps": 12.0,
+  "randomize": true,
+  "holdMode": true,
+  "button": "LEFT",
+  "humanize": true
+}

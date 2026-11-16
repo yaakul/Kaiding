@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:dirt": 19
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1562,
+      "minecraft:time_since_rest": 542,
+      "minecraft:walk_one_cm": 338,
+      "minecraft:total_world_time": 656,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 9980,
+      "minecraft:play_time": 542,
+      "minecraft:jump": 32,
+      "minecraft:time_since_death": 542
+    }
+  },
+  "DataVersion": 5023
+}
