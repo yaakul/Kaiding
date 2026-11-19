@@ -4,5 +4,6 @@
   "randomize": true,
   "holdMode": true,
   "button": "LEFT",
-  "humanize": true
+  "humanize": true,
+  "autoSprint": true
 }
