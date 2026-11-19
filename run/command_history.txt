@@ -7,3 +7,4 @@
 /gamemode creative
 /kaiding
 /gamemode survival
+/gamemode creative

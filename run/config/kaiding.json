@@ -5,5 +5,7 @@
   "holdMode": true,
   "button": "LEFT",
   "humanize": true,
-  "autoSprint": true
+  "autoSprint": true,
+  "itemFilter": true,
+  "registeredItems": []
 }
